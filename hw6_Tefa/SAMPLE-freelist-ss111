@@ -1,0 +1,42 @@
+make -s _run4 _mainNo=4 \
+    _nn=12 \
+    _ss=0 \
+
+Executing freeList/FreeList with args: 12 111  
+>> Generating the odd and even lists:
+  app to evenList: Shai
+  app to evenList: Dout
+  app to evenList: On
+  add to oddList: Xep
+  add to oddList: Doong
+  add to oddList: Yaick
+  app to evenList: Gaet
+  add to oddList: Nogowng
+  add to oddList: Nuadoin
+  app to evenList: Shoodick
+  app to evenList: Ying
+  add to oddList: Chochoing
+>> Here is the odd list:
+List 11 :
+  -->  11:(8,Chochoing)  8:(7,Nuadoin)  7:(5,Nogowng)  5:(4,Yaick)  4:(3,Doong)  3:(-1,Xep) 
+  ==> List Size is 6
+>> Here is the even list:
+List 0 :
+  -->  0:(1,Shai)  1:(2,Dout)  2:(6,On)  6:(9,Gaet)  9:(10,Shoodick)  10:(-1,Ying) 
+  ==> List Size is 6
+>> Number of free slots is 0
+>> Depleting the odd list:
+  removed slot 8, with value Nuadoin
+  removed slot 7, with value Nogowng
+  removed slot 5, with value Yaick
+  removed slot 4, with value Doong
+  removed slot 3, with value Xep
+  removed (last) slot 11, value Chochoing
+>> Here is the odd list:
+List -1 :
+  ==> List Size is 0
+>> Here is the even list:
+List 0 :
+  -->  0:(1,Shai)  1:(2,Dout)  2:(6,On)  6:(9,Gaet)  9:(10,Shoodick)  10:(-1,Ying) 
+  ==> List Size is 6
+>> Number of free slots is 6

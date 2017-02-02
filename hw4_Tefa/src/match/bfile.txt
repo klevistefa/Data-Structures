@@ -1,0 +1,9 @@
+# B-list
+#	ignore empty lines
+#	and comment lines
+
+pt
+Pot
+peat
+part
+

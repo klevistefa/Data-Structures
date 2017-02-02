@@ -1,0 +1,10 @@
+# A-list
+#	ignore empty lines
+#	and comment lines
+
+pit
+spot
+spate
+slaptwo
+respite
+

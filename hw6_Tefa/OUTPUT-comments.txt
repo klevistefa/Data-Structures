@@ -1,0 +1,15 @@
+When nn=100, we see that for n=100 the first iterative method is the most effective,
+but then for values up to 3300 (except for some n) the recursive method is the most efficients. 
+However after that, for values up to approximately 4000 the first iterative method acts as
+the most efficient one. When nn=1000 for n=1000 and  n=1200the first iterative method is 
+again the most effective however after that for values up to 3400 it's the recursive method. 
+Again after that for n up to 4800 (except for one case) the first iterative method is the
+most effective. For nn=10000, I get a StackOverFlowException, but the first line of the 
+table is printed and the first iterative method is still the most efficient. As a conclusion,
+we are sure that the method of circular array is clearly the worst since it has failed for 
+all the n to be the fastest one. The two other methods are very but for most n the recursive
+method is faster.
+
+When I try for nn close somewhere between 9500 and 9600 I get StackOverFlowException, which 
+means that the stack where the recursive methods are stored before returning something gets
+full. Screenshots are inside hw6_Tefa.

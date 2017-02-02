@@ -1,0 +1,34 @@
+Readme-please
+
+The Makefile in this folder has targets to run
+all the main programs inside the src folder.
+
+To see what these targets are, type "make help".
+This is what you might see (what you see might be slightly different):
+
+	Help: ===========================
+	  To run any of the following targets, type
+	        'make runX' or 'make rX'
+	        for mainX:
+	  main1:  util/MyQueue
+	  main1z:  util/MyStack
+	  main2:  zoombinis/Zoombinis
+	  main3:  bst/BST
+	  main3z:  bst/BSTz
+	  main3y:  bst/DisplayBST
+	  main4:  freeList/FreeList
+	  main5:  rev/Rev
+
+E.g., to run the main bst program, type
+
+	>> make run3
+
+To run the display BST version, type
+
+	>> make run3y
+
+
+---------------------------------------
+Chee Yap
+Fall 2016, CS102
+---------------------------------------

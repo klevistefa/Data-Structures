@@ -1,0 +1,21 @@
+make -s _run3y _mainNo=3y \
+    _nn=9 \
+    _ss=0 \
+    _mm=1 \
+    _vv=0 \
+
+Executing bst/DisplayBST with args: 9 0 1 0
+=======> BSTz: nn=9, ss=0, mm=1, vv=0
+
++Paw; +Makim; +Shouchowk; +Chouyai; +Shat; +Yaeng; +Fuayin; +Ethong; +Mowsaing; 
+                                   Paw                   
+                       _____________|___________         
+                     Makim                 Shouchowk     
+   ____________________|_______         _______|_______  
+Chouyai                   Mowsaing    Shat          Yaeng
+___|______________                                       
+              Fuayin 
+          _______|___
+       Ethong 
+              
+0123456789 123456789 123456789 1234567890123456789 123456789 123456789 12345

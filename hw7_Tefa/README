@@ -1,0 +1,19 @@
+README file for hw7_Tefa
+
+
+(1) Name: Klevis Tefa
+
+(2) NYU N-number: N-15953429
+
+(3) Integrity Statement:
+
+	-- Electronically Signed: Klevis Tefa
+
+(4) Acknowledgements:
+	I have no other acknowledgements.
+
+(5) Any other comments or information you like us to know.
+  I think that this homework was very confusing because most of the methods were provided by the teacher and I believe it
+	was very complicated. I have made some little changes in the sort method and also adding a method called counting which
+	does the same thing as the method timing that the teacher provided but it returns the count instead. I used the timing
+	method in my solution for experiment1 but I don't really know if the code provided is correct. 

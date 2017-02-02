@@ -1,0 +1,22 @@
+
+Open Chee 1	THIS is account #1000 (Plus Account)
+
+Login 1000
+Withdraw 1110.00
+W 1.11
+Balance		THIS the negative balance -1111.11 (- some interest!)
+Quit
+
+Open Fred 2	THIS is account #1001 (Saving Account)
+L 1001
+Deposit 9999.99
+W 1111
+B		THIS SHOULD SHOW +8888.88 (+ some interest)
+Q
+
+Superuser 314159	Secret Password!
+Customers		This should list two Customers
+AllAccounts		This should list 2 accounts
+Terminate		THIS ENTIRE SESSION SHOULD HAVE NO ERROR
+
+

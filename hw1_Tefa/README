@@ -1,0 +1,40 @@
+README file for hw1-Tefa
+
+     For the ATM program I implemented the program using two while loops. The first one keeps the program running unless
+     terminated by the user. The second loops keeps an account logged in so the user can perform what actions he can. For 
+     error handling I've used both try-catch and if-else to catch human errors. Some of the errors are caught in the methods 
+     that can manipulate user's input for the program's purposes.
+
+     For the HiClass program I just used a readFile method to put all the names on String array and then a printFile method to
+     write random greeting in each of those names.
+
+     (1) Name: Klevis Tefa
+     (2) NYU N-number: N-15953429
+     (3) Integrity Statement:
+     		"I have done this work myself.  Electronically Signed: [Klevis Tefa]" 
+
+     (4) Acknowledgements: Nothing to acknowledge.
+
+     (5) Other Information: I could not figure out how to use the terminal to compile the program, so I have attached the
+                            project in my homework file.
+
+
+(1) Name: Chee Yap
+
+(2) NYU N-number: N-123456789
+
+(3) Integrity Statement:
+	I needed help with the file handling in Java, so I talked
+	to Dr. Marcelo Cicconet who shared the method ReadFile() in ATM.java
+	with me.  The rest of the code is work I did myself.
+
+	-- Electronically Signed: Chee Yap
+
+(4) Acknowledgements: 
+	I have no other acknowlegements.  
+
+(5) Any other comments or information you like us to know.
+
+	The trick for specifying command line arguments from 
+	the Makefie is really cool!  
+

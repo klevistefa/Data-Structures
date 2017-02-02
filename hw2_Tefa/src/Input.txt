@@ -1,0 +1,98 @@
+
+Open Chee 1	
+THIS is account #1000 (Plus Account)
+
+
+Login 1000
+
+Withdraw 1110.00
+
+W 1.11
+
+Balance		THIS SHOULD SHOW the negative balance -1111.11
+
+Quit
+
+
+Open Fred 2	THIS is account #1001 (Saving Account)
+
+L 1001
+
+Deposit 9999.99
+
+W 1111
+
+B		THIS SHOULD SHOW +8888.88
+
+Q
+
+
+Open Chee 2	THIS is account #1002
+
+Login 1002
+
+D 666666
+
+W 111111	Now, the balance is $555555
+
+Q
+
+
+Help		Each help command will increase time by one unit!
+
+Help		
+
+Help		AS TIME PASSES, a negative Plus Account will be even more 
+
+Help		  negative, but a Saving Account will earn more interest.
+
+
+Open Chee 1	THIS is account #1003
+
+Login 1003
+
+D 54321
+
+Balance
+
+Q
+
+
+Open Fred 1	THIS is account #1004
+
+L 1004
+
+W 1234567.0
+
+B		THIS should show updated balance
+
+Q
+
+
+L 1001		THIS is Fred's Saving Account
+
+MyAccounts	Fred has 2 accounts
+
+B		THIS should show updated balance on his -$8888.88
+
+Q
+
+
+L 1000		THIS is Chee's Plus Acct
+
+MyAccounts	Chee has 3 accounts
+
+B		THIS should show updated balance on his -$1111.11
+
+Q
+
+
+Superuser 314159	Secret Password!
+
+Customers		This should list two Customers
+
+AllAccounts		This should list 5 accounts
+
+Terminate		THIS ENTIRE SESSION SHOULD HAVE NO ERROR
+
+
